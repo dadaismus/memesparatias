@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Memesparatias.com, está pensado para esa tía que todos llevamos dentro, la plataforma está hecha en Ruby on Rails con la finalidad de aprender, si gustas contruibuir, gracias!.
 
-Things you may want to cover:
+<img src="http://www.gifsanimados.org/data/media/1620/piolin-imagen-animada-0105.gif">
 
-* Ruby version
+El proyecto comenzará con las siguientes cosas:
 
-* System dependencies
+* Instalación de dependencias para estilos y librerías en front
 
-* Configuration
+* Configuración de API para consumir memes
 
-* Database creation
+* Diseño del buscador
 
-* Database initialization
+* Diseño de cards
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Compartir vía Whatsapp
